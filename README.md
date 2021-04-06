@@ -1,4 +1,4 @@
-# Tosshin Interfaces
+# Ninshiki Interfaces
 
 [![latest version](https://img.shields.io/github/v/release/ichiro-its/ninshiki_interfaces.svg)](https://github.com/ichiro-its/ninshiki_interfaces/releases/)
 [![license](https://img.shields.io/github/license/ichiro-its/ninshiki_interfaces.svg)](./LICENSE)
