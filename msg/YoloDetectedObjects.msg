@@ -1,0 +1,1 @@
+YoloDetectedObject[] detected_objects
