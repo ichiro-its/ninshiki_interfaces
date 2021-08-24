@@ -1,6 +1,6 @@
-int32 label
+string label
 float32 score
-float32 left
-float32 right
-float32 top
-float32 bottom
+int32 left
+int32 top
+int32 right
+int32 bottom

@@ -1,1 +1,0 @@
-YoloDetectedObject[] detected_objects
