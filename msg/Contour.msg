@@ -1,1 +1,2 @@
+string name
 Point[] contour
