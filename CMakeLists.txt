@@ -19,7 +19,10 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DetectedObject.msg"
-  "msg/DetectedObjects.msg")
+  "msg/DetectedObjects.msg"
+  "msg/Point.msg"
+  "msg/Contour.msg"
+  "msg/Contours.msg")
 
 ament_export_dependencies(rosidl_default_runtime)
 ament_package()
