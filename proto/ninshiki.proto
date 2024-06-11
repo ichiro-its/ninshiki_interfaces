@@ -8,6 +8,8 @@ service Config {
     rpc SaveColorSetting (ConfigColor) returns (Empty) {}
 
     rpc SetColorSetting (ColorSetting) returns (Empty) {}
+
+    rpc LoadConfig (Empty) returns (Empty) {}
 }
 
 message Empty {}
