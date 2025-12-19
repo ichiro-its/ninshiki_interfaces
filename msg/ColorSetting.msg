@@ -1,8 +1,15 @@
 string name
 bool invert_hue
+bool use_lab
 int32 min_hue
 int32 max_hue
 int32 min_saturation
 int32 max_saturation
 int32 min_value
 int32 max_value
+int32 min_lightness
+int32 max_lightness
+int32 min_a
+int32 max_a
+int32 min_b
+int32 max_b
